@@ -1,0 +1,23 @@
+Round-robin: 20 bots, 6000 hands per match (duplicate)
+
+Rank Bot              Avg bb/100  Beats  Sig W  Sig L    Worst
+1    Trapper                 897   17/19     15      1     -168
+2    Ladder_Tight            623   14/19     14      5     -409
+3    Ladder_BigSizes         565   12/19     11      5     -474
+4    PotOddsRange            553   18/19     17      1     -180
+5    Exploiter               517   15/19     13      2     -196
+6    Ladder_Default          497   10/19     10      7     -646
+7    PotOdds                 399   11/19      9      7     -594
+8    Bluffer                 377    9/19      8      8     -622
+9    TAG                     300   16/19     13      2     -117
+10   Rock                    274   18/19     18      0      -11
+11   PushFold                257   12/19      9      7    -1049
+12   Ladder_Loose            222    6/19      5     11     -883
+13   MixedEquity             135    7/19      6     10     -685
+14   LAG                     134    8/19      7      8     -589
+15   Ladder_NoShove           20    7/19      5     11     -788
+16   MinRaiser              -440    4/19      4     15    -1410
+17   AllIn                  -835    1/19      1     16    -1425
+18   Random                -1043    0/19      0     18    -1948
+19   CallingStation        -1291    1/19      0     16    -4654
+20   Maniac                -2159    1/19      1     16    -3680

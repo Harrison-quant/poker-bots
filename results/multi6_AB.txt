@@ -1,0 +1,31 @@
+Rank Bot               A bb/100   +/-  Tables  B bb/100   +/-  B rank
+1    PushFold               690    86     145       559   109       1
+2    Ladder_Tight           521   117     121       382   120       5
+3    TAG                    518    66     131       389    70       4
+4    H_RangeReg             487    86     126       530    91       2
+5    LAG                    481    82     132       410    78       3
+6    Rock                   390    65     112       339    63       8
+7    Ladder_Default         370   127     123       261   101      15
+8    MixedEquity            335    83     119       353    88       6
+9    Trapper                304    51     154       337    68       9
+10   PotOdds                283    55     134       270    53      12
+11   Ladder_BigSizes        278   113     143       231   127      16
+12   H_NitShover            266    47     137       309    49      11
+13   Exploiter              259    56     125       268    52      14
+14   PotOddsRange           252    53     102       343    54       7
+15   H_Overbettor           240    65     119       200    55      17
+16   Bluffer                232    56     127       311    54      10
+17   H_ProbeBettor          184    46     137       168    52      18
+18   H_JitterLadder         147   121     147       128   126      20
+19   Ladder_NoShove         138   111     123       268   128      13
+20   H_CheckRaiser          134    99     123       156   115      19
+21   Ladder_Loose           -45   139     135       -23   151      21
+22   MinRaiser             -164   136     105      -170   123      22
+23   H_Limper              -195   121     136      -290   123      23
+24   AllIn                 -745   124     127      -786   122      24
+25   H_StickyCaller        -938   139     134      -894   128      25
+26   Random               -1096    92     141      -986   117      26
+27   Maniac               -1405   163     113     -1388   137      27
+28   CallingStation       -2005   185     129     -1757   193      28
+
+Rank correlation A vs B (Spearman): 0.93

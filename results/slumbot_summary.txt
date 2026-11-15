@@ -1,0 +1,24 @@
+results/slumbot_Trapper.jsonl
+  Raw (main result)                   5000 hands    -128 bb/100  (+/- 74)
+  All-in EV adjusted                  5000 hands    -146 bb/100  (+/- 71)
+  All-in before river                   10 hands adjusted
+  Slumbot baseline (should be ~0)     5000 hands    -154 bb/100  (+/- 73)
+  As button (small blind), all-in EV  2500 hands     -22 bb/100  (+/- 92)
+  As big blind, all-in EV             2500 hands    -270 bb/100  (+/- 109)
+  Went to showdown, all-in EV         2123 hands    -690 bb/100  (+/- 160)
+  We folded                            933 hands    -312 bb/100  (+/- 15)
+  Slumbot folded                      1944 hands    +528 bb/100  (+/- 37)
+  Pots of 100bb+ won/lost: 22/60
+
+results/slumbot_PotOddsRange.jsonl
+  Raw (main result)                   5000 hands     -60 bb/100  (+/- 70)
+  All-in EV adjusted                  5000 hands     -64 bb/100  (+/- 65)
+  All-in before river                   21 hands adjusted
+  Slumbot baseline (should be ~0)     5000 hands     -90 bb/100  (+/- 69)
+  As button (small blind), all-in EV  2500 hands     -65 bb/100  (+/- 93)
+  As big blind, all-in EV             2500 hands     -62 bb/100  (+/- 90)
+  Went to showdown, all-in EV         1951 hands    -514 bb/100  (+/- 154)
+  We folded                           1345 hands    -261 bb/100  (+/- 13)
+  Slumbot folded                      1704 hands    +607 bb/100  (+/- 59)
+  Pots of 100bb+ won/lost: 26/53
+
